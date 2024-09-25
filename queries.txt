@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A7276470457%2C%22first_name%22%3A%22Dhoni%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%7D&chat_instance=6964921632048109177&chat_type=private&start_param=5170670225&auth_date=1727251524&hash=135a9d333efba2e8e8aef548a7888b99a1c194086c8e59621e50e3ca77f14a96
